@@ -1,3 +1,5 @@
+Perceptron + Supervised learning
+----------------------------------------------
 This project implement a perceptron training algorithm using threshold unit.
 Perceptron is a basic foundation of the neural network and related machine learning algorihtm.
 In this project, it shows how the perceptron works and how powerful it is!
