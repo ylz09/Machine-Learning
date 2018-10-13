@@ -1,2 +1,9 @@
 This project implement a perceptron training algorithm using threshold unit.
+Perceptron is a basic foundation of the neural network and related machine learning algorihtm.
+In this project, it shows how the perceptron works and how powerful it is!
+
+First, this project solved a very famous problem XOR, which caused the the nueral network paradigms fallen into an dark age in 1969.
+
+
+
 
